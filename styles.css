@@ -1,0 +1,10 @@
+.container{border: 5px solid#ffcc5c;
+display: flex;}
+
+.item{order: 1;}
+
+.item2{
+    order: 0;
+}
+
+.item3{order: -1;}
